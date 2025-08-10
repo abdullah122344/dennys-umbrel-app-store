@@ -7,7 +7,7 @@ services:
       APP_PORT: 3000
 
   web:
-    image: linuxserver/webtop:XFCE Ubuntu 
+    image: linuxserver/webtop:ubuntu-xfce
     restart: on-failure
     security_opt:
       - seccomp:unconfined 
