@@ -7,7 +7,7 @@ services:
       APP_PORT: 3000
 
   web:
-    image: linuxserver/webtop:ubuntu-xfce
+    image: linuxserver/webtop:ubuntu-kde-version-f2ae745d
     restart: on-failure
     security_opt:
       - seccomp:unconfined 
