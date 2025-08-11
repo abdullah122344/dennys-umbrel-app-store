@@ -1,0 +1,9 @@
+id: "casaos-dockur"
+name: "CasaOS"
+category: "Utilities"
+version: "latest"
+port: 8085
+description: "CasaOS — A simple, open-source personal cloud for your home."
+developer: "Dockur"
+website: "https://github.com/dockur/casa"
+icon: "https://raw.githubusercontent.com/IceWhaleTech/CasaOS/main/docs/images/logo.png"
